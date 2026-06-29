@@ -1,6 +1,22 @@
-# 💫 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/waving&color=gradient&height=220&section=header&text=Kommineni%20Ravindra&subtitle=Full%20Stack%20Java%20Developer&fontSize=40&animation=twinkling" alt="Header Banner" />
+</p>
 
-Hi 👋, I'm **Kommineni Ravindra** A passionate **Full Stack Java Developer** from India 🇮🇳 with hands-on experience in building scalable web applications, robust REST APIs, and AI-powered solutions. I love turning complex logic into real-world applications and continuously expanding my technical horizon.
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square" alt="Maintained" />
+  <img src="https://views.whatilearened.today/views/github/kommineniravindra/MyProfile.svg" alt="Views" />
+  <img src="https://img.shields.io/github/followers/kommineniravindra?label=Followers&style=social" alt="Followers" />
+</p>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> About Me
+
+Hi 👋, I'm **Kommineni Ravindra**! A passionate **Full Stack Java Developer** from India 🇮🇳 with hands-on experience in building scalable web applications, robust REST APIs, and AI-powered solutions. I love turning complex logic into real-world applications and continuously expanding my technical horizon.
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kommineniravindra&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
@@ -16,40 +32,86 @@ Hi 👋, I'm **Kommineni Ravindra** A passionate **Full Stack Java Developer** f
 
 ---
 
+## 🌐 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 CodePulse-R</h3>
+      <p>A professional web development services platform and technical workshop management ecosystem built to deliver high-performance branding solutions.</p>
+      <p>
+        <a href="https://codepulse-r.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Project-🔥-FF4500?style=for-the-badge" alt="CodePulse-R" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 MyGoMinds</h3>
+      <p>An interactive, user-centric application designed to bridge technical learning, training resources, and smart logic workflows seamlessly.</p>
+      <p>
+        <a href="https://mygominds.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Project-⚡-00EDFF?style=for-the-badge&logoColor=black" alt="MyGoMinds" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Sathya Technologies</h3>
+      <p>Contributed to web frameworks and structured platforms aimed at streamlining educational deliveries, technical courses, and student training portals.</p>
+      <p>
+        <a href="https://sathyatech.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Project-🌟-32CD32?style=for-the-badge" alt="Sathya Tech" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ More Projects Coming Soon...</h3>
+      <p>Currently building next-generation microservices and Cloud-native business applications. Stay tuned!</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🛠️ Backend & Core Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
 
 ### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
 ### ☁️ DevOps & Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📐 Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
@@ -60,11 +122,19 @@ Hi 👋, I'm **Kommineni Ravindra** A passionate **Full Stack Java Developer** f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kommineniravindra&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kommineniravindra&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/kommineniravindra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kommineniravindra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
 </p>
