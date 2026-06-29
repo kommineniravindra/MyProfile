@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/type/waving&color=gradient&height=220&section=header&text=Kommineni%20Ravindra&subtitle=Full%20Stack%20Java%20Developer&fontSize=40&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="assets/header-banner.png" width="100%" alt="Header Banner" />
 
 # Welcome to my Digital Portfolio! 🚀
 
@@ -144,5 +144,5 @@ Hi 👋, I'm **Kommineni Ravindra**! A passionate **Full Stack Java Developer** 
 
 <p align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/type/waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
+  <img src="assets/footer-banner.png" width="100%" alt="Footer Banner" />
 </p>
