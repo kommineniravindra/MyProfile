@@ -123,16 +123,20 @@ Hi 👋, I'm **Kommineni Ravindra**! A passionate **Full Stack Java Developer** 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kommineniravindra&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=kommineniravindra&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/kommineniravindra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kommineniravindra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://facebook.com/kommineni_ravindra_chowdary" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/kommineni_ravindra_chowdary" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/kommineni-ravindra-84355031a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/kommineniravindra" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://youtube.com/@@codepulse-r" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:kommineniravindra99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
