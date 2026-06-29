@@ -8,7 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kommineni-ravindra-84355031a)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:kommineniravindra99@gmail.com)
 
-[**About Me**](#-about-me) &nbsp;&bull;&nbsp; [**Projects**](#-portfolio--projects) &nbsp;&bull;&nbsp; [**Skills**](#-technical-skills) &nbsp;&bull;&nbsp; [**Stats**](#-github-analytics) &nbsp;&bull;&nbsp; [**Contact**](#-get-in-touch)
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=about.me&logoColor=white" alt="About Me" /></a>
+  <a href="#-portfolio--projects"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=polywork&logoColor=white" alt="Projects" /></a>
+  <a href="#-technical-skills"><img src="https://img.shields.io/badge/Skills-181717?style=for-the-badge&logo=codeforces&logoColor=white" alt="Skills" /></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-181717?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Stats" /></a>
+  <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Contact-181717?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" /></a>
+</p>
 
 <br/>
 
