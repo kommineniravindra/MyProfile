@@ -1,25 +1,39 @@
 <div align="center">
 
-<img src="assets/header-banner.png" width="100%" alt="Header Banner" />
-
-# Welcome to my Digital Portfolio! 🚀
-
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codepulse-r.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kommineni-ravindra-84355031a)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:kommineniravindra99@gmail.com)
-
-<p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-181717?style=for-the-badge&logo=about.me&logoColor=white" alt="About Me" /></a>
-  <a href="#-portfolio--projects"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=polywork&logoColor=white" alt="Projects" /></a>
-  <a href="#-technical-skills"><img src="https://img.shields.io/badge/Skills-181717?style=for-the-badge&logo=codeforces&logoColor=white" alt="Skills" /></a>
-  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-181717?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Stats" /></a>
-  <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Contact-181717?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" /></a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="55%" valign="middle" align="left">
 
 <br/>
 
-<img src="https://views.whatilearened.today/views/github/kommineniravindra/MyProfile.svg" alt="Views" />
-<img src="https://img.shields.io/github/followers/kommineniravindra?label=Followers&style=social" alt="Followers" />
+<img src="assets/hero-text.svg" alt="Ravindra Chowdary" width="550" />
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;[![View My Work](https://img.shields.io/badge/View_My_Work-1d4ed8?style=for-the-badge&logo=react&logoColor=white)](https://codepulse-r.com)&nbsp;&nbsp;[![Contact Me](https://img.shields.io/badge/Contact_Me-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff)](mailto:kommineniravindra99@gmail.com)
+
+<br/><br/>
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer Animation" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-codepulse--r.com-6366f1?style=flat-square)](https://codepulse-r.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kommineni--ravindra-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/kommineni-ravindra-84355031a)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-kommineniravindra99-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kommineniravindra99@gmail.com)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=kommineniravindra&style=flat-square&color=6366f1)&nbsp;
+![Followers](https://img.shields.io/github/followers/kommineniravindra?label=Followers&style=flat-square&color=6366f1)
 
 </div>
 
@@ -27,128 +41,170 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋, I'm **Kommineni Ravindra**! A passionate **Full Stack Java Developer** from India 🇮🇳 with hands-on experience in building scalable web applications, robust REST APIs, and AI-powered solutions. I love turning complex logic into real-world applications and continuously expanding my technical horizon.
+I'm **Ravindra Chowdary**, a passionate **Full Stack Java Developer & MERN** from India 🇮🇳 with hands-on experience in building scalable web applications, robust REST APIs, and AI-powered solutions. I love turning complex logic into real-world applications and continuously exploring new technologies.
 
-* 🚀 **Currently working on:** Full Stack Java Development projects using Spring Boot, React.js, Node.js, Express.js, and MongoDB.
-* 🤝 **Looking to collaborate on:** Open Source initiatives, Java/Spring Boot ecosystems, MERN Stack applications, and AI-integrated web platforms.
-* 🌱 **Currently learning:** Microservices architecture, AWS Cloud services, Docker, Kubernetes, Redis, and DevOps best practices.
-* 🛠️ **Seeking guidance with:** Advanced System Design, cloud deployments, and container orchestration.
-* 💬 **Ask me about:** `Java`, `Spring Boot`, `React.js`, `Node.js`, `Express.js`, `MongoDB`, `REST APIs`, `MySQL`, and `Git`.
-* ⚡ **Fun fact:** I enjoy turning coffee into clean code and thrive on learning something new every single day!
+<br/>
 
----
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="50%" valign="top">
 
-## 💼 Portfolio & Projects
+🚀 **Currently working as a Full Stack Java Developer**
+projects using Spring Boot, React, Node.js, Express.js, and MongoDB.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 CodePulse-R</h3>
-      <p align="center">
-        <a href="https://codepulse-r.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Project-🔥-FF4500?style=for-the-badge" alt="CodePulse-R" />
-        </a>
-      </p>
-      <p>A professional web development services platform and technical workshop management ecosystem built to deliver high-performance branding solutions.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 MyGoMinds</h3>
-      <p align="center">
-        <a href="https://mygominds.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Project-⚡-00EDFF?style=for-the-badge&logoColor=black" alt="MyGoMinds" />
-        </a>
-      </p>
-      <p>An interactive, user-centric application designed to bridge technical learning, training resources, and smart logic workflows seamlessly.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Sathya Technologies</h3>
-      <p align="center">
-        <a href="https://sathyatech.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Project-🌟-32CD32?style=for-the-badge" alt="Sathya Tech" />
-        </a>
-      </p>
-      <p>Contributed to web frameworks and structured platforms aimed at streamlining educational deliveries, technical courses, and student training portals.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ Next-Gen Cloud App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge" alt="In Progress" />
-      </p>
-      <p>Currently building next-generation microservices and Cloud-native business applications. Stay tuned for more updates!</p>
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="top">
+
+💡 **Skilled in Advanced Java, Spring Boot, Microservices,**
+REST APIs, React.js, Node.js, Express.js, MongoDB, MySQL, and more.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🤝 **Looking to collaborate on Open Source**
+contributions, Web Applications, and platform solutions.
+
+</td>
+<td width="50%" valign="top">
+
+🌱 **Seeking guidance with Advanced System Design,**
+cloud deployment, and container orchestration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+☁ **Creating intuitive UI, microservice architecture,**
+AWS Cloud services, Docker, Kubernetes, Redis, and DevOps best practices.
+
+</td>
+<td width="50%" valign="top">
+
+⚡ **Fun fact:** I enjoy turning coffee into clean code
+and thrive on learning something new every day!
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Projects
+
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;<img src="assets/codepulse-logo.jpg" width="36" align="center" /> CodePulse-R &nbsp; ![Live](https://img.shields.io/badge/🟢_Live-success?style=flat-square)
+
+A professional web development service platform and technical workshop management ecosystem built to deliver high-performance training solutions.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Visit](https://img.shields.io/badge/🔗_Visit_Project-6366f1?style=flat-square)](https://codepulse-r.com)
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;<img src="assets/mygominds-logo.png" width="36" align="center" /> MyGoMinds &nbsp; ![Live](https://img.shields.io/badge/🟢_Live-success?style=flat-square)
+
+An interactive, user-centric application designed to bridge technical learning, training resources, and smart logic workflows seamlessly.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Visit](https://img.shields.io/badge/🔗_Visit_Project-6366f1?style=flat-square)](https://mygominds.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;<img src="assets/sathya-logo.png" width="36" align="center" /> Sathya Technologys &nbsp; ![Live](https://img.shields.io/badge/🟢_Live-success?style=flat-square)
+
+A platform for technical courses, student training portals, and institutional learning solutions.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+[![Visit](https://img.shields.io/badge/🔗_Visit_Project-6366f1?style=flat-square)](https://sathyatech.com)
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;🍽️ Tasty Bites &nbsp; ![Live](https://img.shields.io/badge/🟢_Live-success?style=flat-square)
+
+A modern food ordering web application built with React.js, featuring a rich UI, dynamic menu browsing, and seamless ordering experience.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![Visit](https://img.shields.io/badge/🔗_Visit_Project-6366f1?style=flat-square)](https://react-tasty-bites.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Backend & Core Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps, Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![View More Projects](https://img.shields.io/badge/→_View_More_Projects_on_GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kommineniravindra?tab=repositories)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kommineniravindra&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="Ravindra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kommineniravindra&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=kommineniravindra&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8" alt="GitHub Streak" width="97%" />
+<br/>
+<img src="assets/skills.png" width="100%" alt="Technical Skills" />
 </div>
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Analytics
 
 <div align="center">
-  <p>Whether you have a question or just want to say hi, I'll try my best to get back to you!</p>
-  <br />
-  
-  <a href="https://linkedin.com/in/kommineni-ravindra-84355031a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kommineniravindra99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/kommineniravindra" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://facebook.com/kommineni_ravindra_chowdary" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/kommineni_ravindra_chowdary" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://youtube.com/@@codepulse-r" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kommineniravindra&show_icons=true&theme=default&hide_border=false&title_color=6366f1&icon_color=8b5cf6&bg_color=ffffff&text_color=1e293b&border_color=e2e8f0&border_radius=12" alt="Ravindra's GitHub Stats" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kommineniravindra&layout=compact&theme=default&hide_border=false&title_color=6366f1&bg_color=ffffff&text_color=1e293b&border_color=e2e8f0&border_radius=12" alt="Top Languages" width="47%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=kommineniravindra&theme=default&hide_border=false&fire=6366f1&ring=8b5cf6&currStreakLabel=6366f1&background=ffffff&sideLabels=1e293b&dates=64748b&border=e2e8f0&border_radius=12" alt="GitHub Streak" width="97%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kommineniravindra&bg_color=ffffff&color=6366f1&line=8b5cf6&point=6366f1&area=true&hide_border=false&border_color=e2e8f0" alt="GitHub Activity Graph" width="97%" />
+
 </div>
 
-<p align="center">
-  <br/>
-  <img src="assets/footer-banner.png" width="100%" alt="Footer Banner" />
-</p>
+---
+
+## 📫 Get In Touch
+
+Whether you have a question or just want to say hi, I'll try my best to get back to you!
+
+<div align="center">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kommineni-ravindra-84355031a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kommineniravindra99@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kommineniravindra)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kommineni_ravindra_chowdary)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kommineni_ravindra_chowdary)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codepulse-r)
+
+
+
+*© 2024 Ravindra Chowdary. All rights reserved. &nbsp;|&nbsp; Built with ❤ and lots of ☕*
+
+</div>
