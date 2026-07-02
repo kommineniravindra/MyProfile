@@ -39,56 +39,10 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Ravindra Chowdary**, a passionate **Full Stack Java Developer & MERN** from India 🇮🇳 with hands-on experience in building scalable web applications, robust REST APIs, and AI-powered solutions. I love turning complex logic into real-world applications and continuously exploring new technologies.
-
+<div align="center">
 <br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td width="50%" valign="top">
-
-🚀 **Currently working as a Full Stack Java Developer**
-projects using Spring Boot, React, Node.js, Express.js, and MongoDB.
-
-</td>
-<td width="50%" valign="top">
-
-💡 **Skilled in Advanced Java, Spring Boot, Microservices,**
-REST APIs, React.js, Node.js, Express.js, MongoDB, MySQL, and more.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🤝 **Looking to collaborate on Open Source**
-contributions, Web Applications, and platform solutions.
-
-</td>
-<td width="50%" valign="top">
-
-🌱 **Seeking guidance with Advanced System Design,**
-cloud deployment, and container orchestration.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-☁ **Creating intuitive UI, microservice architecture,**
-AWS Cloud services, Docker, Kubernetes, Redis, and DevOps best practices.
-
-</td>
-<td width="50%" valign="top">
-
-⚡ **Fun fact:** I enjoy turning coffee into clean code
-and thrive on learning something new every day!
-
-</td>
-</tr>
-</table>
+<img src="assets/about.png" width="100%" alt="About Me" />
+</div>
 
 ---
 
@@ -112,7 +66,7 @@ A professional web development service platform and technical workshop managemen
 </td>
 <td width="50%" valign="top">
 
-### &nbsp;<img src="assets/mygominds-logo.png" width="36" align="center" /> MyGoMinds &nbsp; ![Live](https://img.shields.io/badge/🟢_Live-success?style=flat-square)
+### &nbsp;<img src="assets/mygominds-logo.png" width="55" align="center" /> MyGoMinds &nbsp; ![Live](https://img.shields.io/badge/🟢_Live-success?style=flat-square)
 
 An interactive, user-centric application designed to bridge technical learning, training resources, and smart logic workflows seamlessly.
 
